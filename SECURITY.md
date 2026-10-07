@@ -2,6 +2,7 @@
 
 ## Supported Versions
 
+
 We take security seriously in the Disease Prediction project. The following table outlines which versions are currently supported with security updates and patches:
 
 | Version | Supported |
